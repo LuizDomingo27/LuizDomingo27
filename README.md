@@ -21,7 +21,7 @@ SQL
  Excel,
  Atualmente C# focado no Back-End.
 
-Meu [Linkdin](www.linkedin.com/in/luiz-domingo-silva-dev-dev)" 
+Meu Linkdin - www.linkedin.com/in/luiz-domingo-silva-dev-dev" 
 
 ---
 
