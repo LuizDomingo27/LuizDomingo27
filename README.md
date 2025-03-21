@@ -6,7 +6,7 @@ Me chamo Luiz Domingo, tenho 36 anos e sou natural do Rio Grande do Norte.
 Estou cursando Faculdade em **`Analise e desenvolvimento de sistemas`** pela **UNINTER**.
 
 Minha jornada na área da tecnologia inicio no ano de 2014 quando conheci e tive meu primeiro contato com um PC.
-Sabe aquele momento em que você acha algo impressionante, pois é foi assim que fique, parado e pensando: “Como que isso faz todas essas mágicas ?”
+Sabe aquele momento em que você acha algo impressionante, pois é, foi assim que fiquei, parado e pensando... “Como que isso faz todas essas mágicas ?”
 Logo depois me deparei com outra ferramenta muito maravilhosa dentro do Excel
 Ai você já deve está pensando, lá vai ele falar de tabelas dinâmicas, poderia ate ser, mas foi o velho e bom VBA.
 Com o primeiro contato com essa ferramenta, ou melhor, linguagem de programação, eu consegui ficar mais ainda impressionado com oque poderia ser feito com o uso dessa linguagem.
